@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+    background: linear-gradient(#ffef40 0%, #ff5926 100%);
+    background-repeat: no-repeat;
+    padding-top: 80px;
+}
+
+h1 {
+    text-shadow: 2px 2px #BF360C;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 27px;
+}
+
+.p {
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    height;
+    100px;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+.links{
+    float: left;
+    color: crimson;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: fantasy;
+}
+.links:hover{
+    background-color: black;
+}
